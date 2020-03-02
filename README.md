@@ -5,7 +5,7 @@
 
 This program will brute force any Instagram account you send it its way. Just give it a target, a password list and a mode then press enter and forget about it. No need to worry about anonymity when using this program, its highest priority is your anonymity, it only attacks when your identity is hidden.
 
-#how to use cupp.py
+# HOW TO USE CUPP.PY
 
 python3 cupp.py -i
 
@@ -68,7 +68,7 @@ python3 instagram.py <username> <wordlist> -m <mode>
 This mode uses only 4 bots, or 64 passwords at a time.
 
 ```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 3
+C:\Users\kotayogesh\crackinsta>python3 instagram.py Sami09.1 pass.lst -m 3
 ```
 
 ### Moderate mode 1
@@ -76,7 +76,7 @@ C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 3
 This mode uses 8 bots, or 128 passwords at a time.
 
 ```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 2
+C:\Users\kotayogesh\crcakinsta>python3 instagram.py Sami09.1 pass.lst -m 2
 ```
 
 ### Moderate mode 2
@@ -84,7 +84,7 @@ C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 2
 This mode uses 16 bots, or 256 passwords at a time.
 
 ```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 1
+C:\Users\kotayogesh\instacrack>python3 instagram.py Sami09.1 pass.lst -m 1
 ```
 
 ### Savage mode
